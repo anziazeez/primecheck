@@ -1,0 +1,11 @@
+div{
+    padding: 10px;
+    background-color: cornflowerblue;
+    width: 15%;
+}
+button{
+    height: 30px;
+    width: 50px;
+    background-color: pink;
+    margin-left: 50px;
+}
